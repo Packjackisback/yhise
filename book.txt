@@ -1,0 +1,192 @@
+
+
+
+ The Gen Z’s Guide
+
+,         ,
+|\\\\ ////|
+| \\\V/// |
+|  |~~~|  |
+|  |===|  |
+|  |g  |  |
+|  | z |  |
+ \ |  g| /
+  \|===|/
+   '---'
+
+
+I am not supporting or promoting this activity in any way. You do something, your fault.
+
+Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for "fair use" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.
+
+By the Foreman case, and his book, it’s allowed under the 1st amendment of the constitution, but you takje responsibility of anything that happens as result of your book. I do not. In reading this you waive all rights to sue me, and if you die or whatever, that’s on you, even if it’s my negligence. 
+
+
+###Chapter 1: On piracy
+
+Piracy. You love it or hate it. 
+It’s the idea of illegally copying and distributing software, or really any digital content. 
+Greedy companies, making you pay for things that should be free, sucking every last penny out of their often bad content. 
+Piracy is ethical.
+I’m going to show you how to take back your right to free software, eBooks, and much more.
+
+Section 1
+**Quick Disclaimer**
+This is for educational purposes only, much of this is technically illegal.
+You may also run the risk of your computer being infected, and your data being stolen. Your fault, not mine.
+
+eBooks:
+There are many ways to get the ebooks you deserve, but by far the most reliable and safe way is  through irc chats.
+
+First you must download a irc client. The one I’m using is Hexchat, but any should work fine.
+
+Once you open it up, pick your name, and scroll through the list of servers to IRCHighWay.
+(irc.irchighway.net)
+
+Before you join it, you must click edit and check Accept invalid SSL certificates.
+
+Click close, and then hit connect.
+
+You want to type /join #ebooks
+
+Now type @search <book>
+
+It should send you a file. Save it.
+
+##Note: It may not download the first time, just press up and search again if necessary. 
+
+Now extract the .zip file you’ve got. Open the txt, and find the book you want.
+
+Select the entire thing you want, from ‘!’ to the end of the file. It should look like this 
+
+!dragnbreaker Andrews, Wendy May - Mayfair Mayhem 01 - The Duke Conspiracy.epub
+
+Now send it in the chat.
+
+Wait a few seconds, and you will receive the file.
+
+If the book isn’t found (not among search results), you can try finding it on archive.org, or use some random torrent website.
+
+Here’s a few websites you can find free ebooks on.
+
+mobilism.me (requires free account)
+libgen.fun (textbooks, manuals, and magazines)
+Ebookee.com
+ebookbb.in
+ikindlebooks.com 
+audiobookbay.net
+pdfdrive.com
+3lib.net (Seized)
+sci-hub.tw (Technical papers)
+oceanofpdf.com
+ebook-hunter.org/Books/
+pdfget.com
+sanet.st/full/
+the-eye.eu/public/Books/
+Trantor.is
+mywarez.org (Requires registration) (pretty great)
+annas-archive.org
+
+Hopefully you have found the book you want. Books are important and shouldn’t cost money online. Piracy for ebooks can contribute to a smarter more educated society. Never buy a book again!
+
+Software:
+A lot of paid software tends to be better, but developers are greedy and lock it behind a paywall. Software is cracked so it is obtainable, unfortunately some evil bastards will often add malware. The pirate bay is often full of malware, so stay away from that. You will likely end up with ransomware or some keylogger.
+
+Now. Before we start you 1000% need a trusted and reliable antivirus. This will slow down your pc a little bit, but you may want to get more than 1, just in case, or back up your files.
+
+Ahnlab is perhaps one of the best right now, but it costs a ridiculous 6.99 per month.
+
+Bitdefender free is a pretty well rounded av, and Avira free is a bit slower but better at detecting virii.
+If you have a potato pc like me, you may want to go for Kapersky, as it is a lot faster.
+
+You should also install an ad blocker, and vpn. Their is a lot written on this, so I’ll leave you to do your own research.
+
+
+Now, to the good part.
+########## SOFTWARE ##########
+
+First, I’m going to start with the torrent links. I’ll be using bittorrent for this bit, specifically the linux port qbittorrent. Bittorent has a virus.  More below in tools section.
+As an example I’ll be using 1337x.to  , and skipping tthe av check bc you guys probably have different antiviruses.
+
+Start your vpn, go to the website, and find the file you want. Click on the orange button labeled Torrent Download, and click on any of the orange mirrors, but I recommend torrage. If none work just hit the magnet link, and it should open it in bittorrent. If a torrent downloads hit ctrl-o to open and it should download.
+
+I’ll list where to get the cracked software, or warez.
+ %%%%%% TORRENTS %%%%%%
+
+rutracker.org (Acc required, free, awesome)
+1337x.to
+ftuapps.dev
+monkrus.ws (Relatively safe, not best selection)
+rerbg.to
+
+%%%%%%% DOWNLOADS %%%%%%%%
+Much simpler, when you find a file just download  it.
+You still want to use a vpn, antivirus and adblocker
+
+sanet.st
+Mobilism ( Warez board)
+lrepacks.ru
+repack.me
+diakov.net
+ru-board Warez sub (http://forum.ru-board.com/forum.cgi?forum=35 )
+forum.dirtywarez.com
+
+########## MAC (EWW) #########
+macbb.org
+macserialjunkie.com/forum
+macappdownload.com
+nxmac.com
+Macdrop.net/CMacked
+
+I hope you’ve found what you’re looking for, and if you didn’t you can try IRC.
+
+Servers with warez:
+rizon
+scenep2p
+xeromem
+mircphantom
+abjects
+undernet
+
+Just look up the server domain, it isn’t hard to find.
+
+######## MUSIC ############
+
+Music is pretty much free on smth like spotify, just install an ad skipper.
+
+If you want to download music, for god knows why, you can either download from youtube, or go to a general torrent site, like pirate bay or 1337x.
+
+It’s not that hard.
+
+A god send fo downloads is the slav art divolt server. Divolt is a fork of revolt, a open source optimized non central hosted alternative to discord. TBH it’s better. Anyway, create an account at divolt.xyz , and go to this invite:
+https://divolt.xyz/invite/TStW7rFg
+
+This will tell you the current domain of the slavart drive, which at the time of writing is slavart.gamesdrive.net   <--- This will have 90% of the songs you need, and is easy to use and fast.
+If you really want some more specialized websites, I’ll list them, but don’t expect too much. 
+
+khinsider.com
+squid-board.ru
+
+##### Tools #####
+
+MAS - “A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.”
+https://github.com/massgravel/Microsoft-Activation-Scripts
+
+Best Adblockers and bypassers.
+
+%uBlock origin - for blocking most ads and pop-ups.
+%AdNauseam - Based on uBlock Origin. Designed to obfuscate browsing data and protect users from tracking by advertising networks
+%Universal-Bypass - Open-source browser extension to "circumvent sites which make you wait (like adf.ly), make you do something (e.g., show.co and sub2unlock.com) and even trackers (such as bit.ly and t.co)"
+%BlockTheSpot - Block ads and enables song skipping on the Windows Spotify desktop app.
+%EZBlocker - lightweight executable that blocks and mutes Spotify ads on Windows.
+%Spotify-Site-Adblocker - Block ads on the Spotify website
+%Bypass-Paywalls-Firefox-Clean - Firefox extension to block paywalls. Supported sites are listed in the repo page.
+%Bypass Paywalls Chrome Clean - Chrome extension to bypass paywalls.
+&Bypass paywalls - Method 2 - Change user agent to Google Bot.
+&Google-Unlocked - Open source browser extension, which unlocks hidden google search results.
+
+
+Some ISPs and governments will block piracy websites, for obvious reasons, but here are some websites listing proxies to the websites
+
+
+
