@@ -1,6 +1,7 @@
 
 
 
+
  You heard it someplace else    By packjackisback.
 ,         ,
 |\\\\ ////|
@@ -189,3 +190,98 @@ Some ISPs and governments will block piracy websites, for obvious reasons, but h
 
 
 
+knaben.info
+root.yt
+unblocked-pw.github.io
+
+These contain lists of proxies, that just route towards popular pirate websites, simply go to the urls listed.
+
+   $$$ Torrent clients $$$$
+Bittorrent Inc. has bundled malware (a bitcoin miner) into uTorrent in the past - it is not trustworthy. Bittorrent (the torrent client) is owned by the same company.
+Bitlord torrent client is malware.
+
+Webtorrent - Torrent-streaming client
+Transmission - Simple and lightweight open-source torrent client
+qBittorrent - Open-source torrent client. Has a built-in search feature that searches popular public trackers. Consistently updated
+qBittorrent Enhanced - Fork of qBittorrent intended
+ for blocking leeching clients such as Xunlei
+PicoTorrent - Simple and lightweight torrent client
+Deluge - Open-source torrent client
+Tixati - Extremely customizable. All menus can be rearranged and color scheme can be changed completely.
+BiglyBT - Feature filled, open source, ad-free, bittorrent client. A continuation of the popular client previously known as Vuze
+kTorrent - Torrent client for linux
+rTorrent - Terminal-based torrent client for linux
+ruTorrent for rTorrent - Web management UI for rtorrent
+Flood for rTorrent - Sleek web management UI for rtorrent
+
+$$$$$$$$$$ Download Managers $$$$$$$$$$$$$$
+
+These are useful for DDL sites. Download managers such as these are meant to help to speed up downloads, typically by increasing the number of connections to the server or attempting to split the download into chunks. They are also especially handy when grabbing multiple links at once, which is typical with DDL sites, where they'll split up large downloads into multiple small .rar parts, as well as bypassing captchas and eliminating the risks of clicking on the wrong download button on various file hosts. They also help with resuming paused or timed out downloads which your browser may not be able to do in some cases.
+
+JDownloader2 - Download manager that supports downloading from a variety of file-hosts. Supports downloading video from many websites.
+Internet Download Manager (IDM) - Paid download manager that supports downloading from a variety of file-hosts. Supports downloading video from many websites. Use the free trial, then when the trial is nearing its end, simply reset the trial with this.
+(https://github.com/J2TEAM/idm-trial-reset) Alternative method here. (https://www.reddit.com/r/Piracy/comments/fe8l96/idm_trial_reset_not_working_anymore_what_now/fjmxjdk/)
+XTREME download manager - Another very nice download manager
+pyLoad - Lightweight download manager written in python. Managed through a WEB UI.
+aria2 - Commandline-based download utility.
+
+
+A lot of these are more specific and often general websites and search engines will do. 
+
+Here ae some good websites that hold a crazy amount of content, from games to tv.
+
+List of good websites:
+
+rutracker.org -I’ve mentioned this one a lot, it is simply one of the best hosting and indexing sites. Well seeded, and a very full catalog. 
+
+1337x.to - One of the most famous and best.
+
+torrentgalaxy.to - another large site
+
+the-eye.eu - faced adversity, but back up. Pretty good.
+
+/r/opendirectories - Takes a bit of digging, but you’ll eventually find something.
+
+$$$$$$$$$$ Warez Boards $$$$$$$$$$$$
+
+ru-board.com - Popular Russian board
+cs.rin.ru - Popular board for sourcing PC games. Active community of developers and uploaders
+rustorka.com - Popular Russian Warez board
+forum.snahp.it - Private forums
+forum.dirtywarez.com
+forum.sbenny.com
+novanon.net
+adit-hd.com
+rapidheaven.com
+warezheaven.com
+nnmclub.to - Russian warez board and torrent tracker
+
+$$$$$$$$$$$ Search Engines $$$$$$$$
+
+
+filepursuit.com - DDL search engine. In regards to video, you can paste their download URL into your video player to stream it. Search the web for files, videos, audio, eBooks & more.
+megasearch.co - Search engine for content hosted on Mega and other file hosts
+filechef.com - File search engine
+
+### Appendix I: Privacy
+
+Why should I care about privacy, I have nothing to hide / not a criminal? - Do you want the whole world staring through your webcam, shifting through and posting your personal photos, informing the world of your bank number & password, and privacy is an important piece of democracy, and ensures our freedom of expression, association, and assembly. 
+
+Now. Imagine all of your deepest darkest secrets. Your searching for another job, maybe, maybe you’re cheating on your wife. Now imagine everybody having that info, from your boss, wife, and police, to criminals bent on destroying your life. 
+
+Now. How can you fix this issue?
+
+First: Passwords: Nothing can get your account hacked and your data stolen faster. If you have a password listed in the attached file (passlist.txt), your account is most likely already compromised, and you need to change all of passwords for EVERYTHING. You want an account with at least 10 characters, including a near equal spread of symbols, numbers, lowercase and capitol letters. Don’t use a password manager unless it is one of the ones listed (No Google password manager because if your account is compromised they get all of your passwords)
+
+Bitwarden - Free, open source, password breach reports, multi- factor authentication, self hosting, server side encryption :(
+
+KeePassXC - Open source, available on all platforms, and has browser extensions for all main browsers. There also is unofficial apps for android and ios (eww)  2fa, offline, client side encryption :) 
+
+1Password - Unfortunately not open source, but pretty well respected. Has built in autofill, 
+
+Second: Have a public account. No, not like sharing your life to complete strangers. Have an account (that still has a strong password), that’s only used for business or official things. 
+Don’t use this for anything private and not absolutely requiring it. 
+
+Third: No social media. Not all of them, but certain social medias are extremely unsafe, including but not limited to:
+
+Almost all of them. Only a few are “safe” and still are pretty awful about user data. Open source tends to be better, and alternatives are often available. For instance Discord sells basically all user data, but an open source alternative that doesn’t sell your data is called revolt (revolt.chat), and it’s open source and on github, and actually runs smoother. It lacks a few features, but is pretty efficient, and looks good.  You might think, how is discord selling your data bad? Realize that this includes your email, when and where and on what device you use and log on from, your phone #, and much more. It might even sell your chat data. Do you really want your gc leaked to not just your friends, but hungry vulture-like advertisers, and worse, government officials. Now. Think of how bad discord is, and apps like instagram, snapchat, twitter, and don’t even get me started on facebook, are at least 10 times worse. They sell all of the above on the list of your data, from photos to private chats to your address, these scumbags sell it all. The worst thing is, many teens today mindlessly post personal important information without a second thought for all the world to see. The internet and news sites 
